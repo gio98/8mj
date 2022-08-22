@@ -10,9 +10,7 @@ html, body {
 
 
 }
-p{
-  min-width: 1000px;  
-}
+
 /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
